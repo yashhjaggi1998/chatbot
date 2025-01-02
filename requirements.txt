@@ -1,2 +1,7 @@
 streamlit
-openai
+snowflake
+snowflake-ml-python
+snowflake-core
+snowflake-snowpark-python
+snowflake-connector-python
+python-dotenv
